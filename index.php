@@ -2,13 +2,13 @@
 <body>
 <head><title> Group 10 Scaffold 1</title></head>
 <body BGCOLOR= BEIGE>
-<FONT COLOR="RED", SIZE="32", FACE=Snap ITC>
+<FONT COLOR= "RED", SIZE= "32", FACE=Snap ITC>
 
 <p align=center>TODAY 
 	<br> AND 
-	<FONT COLOR="BLUE"><br>TOMORROW<br><br>
+	<FONT COLOR= "BLUE"><br>TOMORROW<br><br>
 
-<p align=left><FONT COLOR="BLACK",SIZE="11", FACE=Snap ITC>TODAY
+<p align=left><FONT COLOR= "BLACK",SIZE= "11", FACE= Snap ITC>TODAY
 	<br>Corruption dishonest or fradulent conduct by those in power,
 	<br> typically involving bribery. This is one issue that we are facing.
 	<br> Corruption about the government and the pandemic is involve 
